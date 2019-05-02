@@ -10,7 +10,7 @@
 ## Web
 
 ![Index web](wireframe/web_index-gs.png)
-![Index web](wireframe/web_menu-gs.png)
-![Index web](wireframe/web_pesquisa-gs.png)
-![Index web](wireframe/web_resultados-gs.png)
-![Index web](wireframe/web_detalhes-gs.png)
+![Menu web](wireframe/web_menu-gs.png)
+![Search web](wireframe/web_pesquisa-gs.png)
+![Results web](wireframe/web_resultados-gs.png)
+![Details web](wireframe/web_detalhes-gs.png)
