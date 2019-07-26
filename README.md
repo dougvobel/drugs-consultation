@@ -5,12 +5,12 @@
 # Wireframe
 ## Mobile
 
-![Mobile version](wireframe/mobile-gs.png)
+![Mobile version](wireframe/mobile-gs-2.png)
 
 ## Web
 
-![Index web](wireframe/web_index-gs.png)
-![Menu web](wireframe/web_menu-gs.png)
-![Search web](wireframe/web_pesquisa-gs.png)
-![Results web](wireframe/web_resultados-gs.png)
-![Details web](wireframe/web_detalhes-gs.png)
+![Index web](wireframe/web_index-gs-2.png)
+![Menu web](wireframe/web_menu-gs-2.png)
+![Search web](wireframe/web_pesquisa-gs-2.png)
+![Results web](wireframe/web_resultados-gs-2.png)
+![Details web](wireframe/web_detalhes-gs-2.png)
